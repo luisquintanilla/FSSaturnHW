@@ -16,7 +16,7 @@ dotnet run
 
 ### Sample Responses
 
-GET `/api/values`
+GET `http://localhost:7078/api/values`
 
 ```json
 [
@@ -26,7 +26,7 @@ GET `/api/values`
 ]
 ```
 
-GET `/api/values/1`
+GET `http://localhost:7078/api/values/1`
 
 ```json
 {
